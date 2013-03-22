@@ -1,11 +1,13 @@
-# Apache Cordova share Android plugin
+# Apache Cordova share plugin
 By Andreas Daskalopoulos
 
 ## Using the plugin
 
-* Add java code to your project's build source
+### Android
 
-* Register the plugin in the plugins.xml file
+* Add SharePlugin.java to your project's build source
+
+* Register the plugin in the config.xml file
 
 ```xml
 <plugin name="SharePlugin" value="com.phonegap.plugins.share.SharePlugin" />
