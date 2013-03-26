@@ -12,6 +12,11 @@ By Andreas Daskalopoulos
 ```xml
 <plugin name="SharePlugin" value="com.phonegap.plugins.share.SharePlugin" />
 ```
+* Add script tag 
+
+```javascript
+<script type="text/javascript" charset="utf-8" src="share.js"></script>  
+```
 
 * Call the plugin, specifying subject, text, success function, and failure function
 
