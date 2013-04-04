@@ -16,7 +16,7 @@ By Andreas Daskalopoulos
 * Copy script and add script tag 
 
 ```javascript
-<script type="text/javascript" charset="utf-8" src="share.js"></script>  
+<script type="text/javascript" charset="utf-8" src="share.js" />
 ```
 
 * Call the plugin, specifying subject, text, success function, and failure function
