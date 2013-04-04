@@ -12,7 +12,8 @@ By Andreas Daskalopoulos
 ```xml
 <plugin name="SharePlugin" value="com.phonegap.plugins.share.SharePlugin" />
 ```
-* Add script tag 
+
+* Copy script and add script tag 
 
 ```javascript
 <script type="text/javascript" charset="utf-8" src="share.js"></script>  
